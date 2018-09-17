@@ -1,10 +1,10 @@
 # Vietnamese Question Answering base on IR
 
-Q: Thủ đô của nước việt nam ?
-A: Hà Nội
+- Q: Thủ đô của nước việt nam ?
+ - A: Hà Nội
 
-Q: Ai là tác giả của ngôn ngữ lập trình C ?
-A: Dennis Ritchie
+ - Q: Ai là tác giả của ngôn ngữ lập trình C ?
+ - A: Dennis Ritchie
 
 # Requirements
  Window or Unix/Linux environment
